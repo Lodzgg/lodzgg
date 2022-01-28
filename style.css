@@ -18,8 +18,9 @@ html {
 }
 
 body {
-  background-color: #000;
-  color: #fff;
+  background-color: #191970;
+
+  color: #00008B;
   padding: 8rem;
 }
 @media only screen and (max-width: 1000px) {
